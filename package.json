@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": " --force or --legacy-peer-deps",
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
