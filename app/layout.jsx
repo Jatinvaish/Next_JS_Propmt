@@ -19,7 +19,6 @@ const RootLayout = ({ children }) => (
         <main className='app'>
           <Nav />
           {children}
-          <WhatsApp />
         </main>
       </Provider>
     </body>
